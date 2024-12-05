@@ -1,2 +1,2 @@
-# UI-UX-projects
-A some contribution to UI/UX field
+# ui-ux-landing-page
+UI/UX landing page with HTML + CSS + Javascript
